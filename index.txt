@@ -1,0 +1,2 @@
+Hack Lagos is first team collaboration project.
+To practice GitHub workflow as a team.
