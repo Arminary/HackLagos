@@ -1,0 +1,8 @@
+What are resources in web development?
+A web resource is any identifiable resource (digital, physical, or abstract) present on or connected to the World Wide Web. Resources are identified using Uniform Resource Identifiers (URIs). In the Semantic Web, web resources and their semantic properties are described using the Resource Description Framework (RDF).
+Some of the key tools that web developers may use every day include:
+Database Management Software – MySQL, Hadoop.
+Text-based editors – Atom, Vim.
+Source COntrol – Git, Subversion.
+IDE (Integrated Development Environment) – DreamWeaver, NetBeans.
+Web Platform Software – JavaScript, Ruby on Rails.
